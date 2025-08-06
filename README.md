@@ -2,6 +2,6 @@
 
 ![img](./assets/header.png)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=oooah&show_icons=true&count_private=true&theme=vue&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=oooah&show_icons=true&theme=gruvbox&hide_border=true&card_width=500)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooah&theme=vue&layout=compact&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooah&theme=gruvbox&layout=compact&disable_animations=true&hide_border=true&card_width=500)]()
