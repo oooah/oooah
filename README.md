@@ -2,6 +2,18 @@
 
 ![img](./assets/header.png)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=oooah&show_icons=true&theme=gruvbox&hide_border=true&card_width=500)]()
+<p align="center"> 
+  &emsp;&emsp;&emsp;
+  <!-- 前端 -->
+  <a href=""><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp;
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oooah&theme=gruvbox&layout=compact&disable_animations=true&hide_border=true&card_width=500)]()
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oooah&show_icons=true&hide_border=true" width="50%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooa" width="50%" />
+</div>
+
+
