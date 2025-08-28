@@ -2,18 +2,26 @@
 
 ![img](./assets/header.png)
 
-<p align="center"> 
+<!-- <p align="center"> 
   &emsp;&emsp;&emsp;
-  <!-- 前端 -->
   <a href=""><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp;
-</p>
+</p> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oooah&show_icons=true&hide_border=true" width="50%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=oooah&show_icons=true&hide_border=true&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=oooah&show_icons=true&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=oooah&show_icons=true&hide_border=true" width="50%" >
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooa" width="50%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oooah&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oooah">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooah" width="50%" >
+  </picture>
+  
 </div>
 
 <picture>
